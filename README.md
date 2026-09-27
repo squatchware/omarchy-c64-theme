@@ -3,7 +3,7 @@
 READY. Light blue on blue, the 16-colour VIC-II palette, and a squatch on tape.
 
 Part of the [Squatchware Retro Pack](https://squatchware.dev/retro/): six Omarchy themes for the
-machines that raised us, each with a squatch hiding somewhere in it.
+machines that raised us. Keep an eye out for the squatch.
 
 ![Desktop](preview.png)
 ![Lock screen](preview-unlock.png)
