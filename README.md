@@ -1,6 +1,6 @@
 # Commodore 64 for Omarchy
 
-READY. Light blue on blue, the 16-colour VIC-II palette, and a squatch on tape.
+READY. The sixteen VIC-II colours dithered into a dusk, plus raster bars for the demo scene.
 
 Part of the [Squatchware Retro Pack](https://squatchware.dev/retro/): six Omarchy themes for the
 machines that raised us. Keep an eye out for the squatch.
@@ -40,8 +40,8 @@ puts your own back when you switch to a theme without any. The boot splash stays
 
 ## The rest of the pack
 
-- [Apple II](https://github.com/squatchware/omarchy-apple-2-theme): Green phosphor text over lo-res colour: the ] prompt and sixteen blocky colours.
-- [Teletext](https://github.com/squatchware/omarchy-teletext-theme): Page 100. Eight colours, chunky mosaic graphics and double-height headlines.
+- [Apple II](https://github.com/squatchware/omarchy-apple-2-theme): Green on black, with hi-res line art in the six colours the Apple II could make.
+- [Teletext](https://github.com/squatchware/omarchy-teletext-theme): Page 100: eight broadcast colours and chunky mosaic graphics, with a skyline to match.
 - [Nixie](https://github.com/squatchware/omarchy-nixie-theme): Neon-orange cathodes behind glass, brass and bronze fittings, warm smoky black.
 - [Phosphor Green](https://github.com/squatchware/omarchy-phosphor-green-theme): A P1 green monochrome monitor: glow, scanlines and a boot screen that takes its time.
 - [Phosphor Amber](https://github.com/squatchware/omarchy-phosphor-amber-theme): A P3 amber monochrome monitor: the warm one, easy on the eyes after midnight.
